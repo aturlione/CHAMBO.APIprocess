@@ -1,0 +1,7 @@
+Flask==2.0.2
+Flask-Cors==3.0.10
+flask-restx==0.5.1
+requests==2.28.1
+Werkzeug==2.0.2
+git+ssh://git@github.com/aturlione/LEM@v0.0.6
+
